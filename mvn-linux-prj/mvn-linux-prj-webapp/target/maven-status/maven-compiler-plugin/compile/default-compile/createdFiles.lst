@@ -1,0 +1,3 @@
+test/webapp/controller/HelloWorldController.class
+test/webapp/config/JacksonJaxbJsonProviderConfig.class
+test/webapp/config/WebConfig.class

@@ -1,0 +1,3 @@
+/opt/Maven/mvn-linux-prj/mvn-linux-prj-interfaces/src/main/java/test/interfaces/SampleInterface.java
+/opt/Maven/mvn-linux-prj/mvn-linux-prj-interfaces/src/main/java/test/utils/SampleUtilClass.java
+/opt/Maven/mvn-linux-prj/mvn-linux-prj-interfaces/src/main/java/test/exceptions/CustomException.java
