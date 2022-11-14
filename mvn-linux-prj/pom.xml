@@ -23,7 +23,7 @@
         <!-- Dependencies -->
         <servlet-api.version>2.5</servlet-api.version>
         <jstl.version>1.2</jstl.version>
-        <org.springframework.version>4.2.5.RELEASE</org.springframework.version>
+        <org.springframework.version>4.2.7.RELEASE</org.springframework.version>
         <jersey.version>3.0-SNAPSHOT</jersey.version>
         <com.fasterxml.jackson.version>2.7.4</com.fasterxml.jackson.version>
         <org.slf4j.version>1.7.5</org.slf4j.version>
